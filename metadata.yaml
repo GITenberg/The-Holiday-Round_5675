@@ -1,0 +1,31 @@
+_repo: The-Holiday-Round_5675
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: Holiday time -- The house-warming -- At play -- Two stories -- An
+  odd lot -- Little plays for amateurs -- A chapter of accidents -- Stories of successful
+  lives -- A few friends -- Epilogue.
+title: The Holiday Round
+url: http://www.gutenberg.org/ebooks/5675
