@@ -1,5 +1,5 @@
 _repo: The-Holiday-Round_5675
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Humorous stories, English'
 - !lcsh 'Short stories, English'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Holiday time -- The house-warming -- At play -- Two stories -- An
   odd lot -- Little plays for amateurs -- A chapter of accidents -- Stories of successful
   lives -- A few friends -- Epilogue.
